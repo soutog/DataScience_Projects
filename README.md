@@ -3,6 +3,8 @@
 
 ## Projects :
 
-* **Conversor de JPG para PNG** - JPGtoPNG_converter.py
-* **Inserir Marca d'água em PDF** - watermarker.py
+* **JPG to PNG Converter** - JPGtoPNG_converter.py
+* **Watermarker in PDF** - watermarker.py
+* **Email Sender** - email_sender.py
+
 
