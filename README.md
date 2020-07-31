@@ -1,5 +1,6 @@
-# Projects using Python 3
+# Data Science and Python Projects
 
+* **Data Visualization using Seaborn** - Data about game platforms for making decisions
 * **JPG to PNG Converter** - JPGtoPNG_converter.py
 * **Watermarker in PDF** - watermarker.py
 * **Email Sender** - email_sender.py
