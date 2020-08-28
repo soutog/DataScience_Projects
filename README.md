@@ -14,3 +14,5 @@
     * Detailed attributes for every player registered in the latest edition of FIFA 19 database. 
 * **Detect Types of Iris Plant using Scikit-learn**:
     * Machine Learning model that can detect types of Iris plant using scikit-learn. 
+* **Really Smart Brain - Image Prediction using a open-source python library - ImageAI**:
+    * ImageAI provides 4 different algorithms and model types to perform image prediction, trained on the ImageNet-1000 dataset.          	https://github.com/OlafenwaMoses/ImageAI
