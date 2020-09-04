@@ -17,4 +17,4 @@
 * **Really Smart Brain - Image Prediction using a open-source python library - ImageAI**:
     * ImageAI provides 4 different algorithms and model types to perform image prediction, trained on the ImageNet-1000 dataset.          	https://github.com/OlafenwaMoses/ImageAI
 * **Previsão de Vendas usando biblioteca do facebook - Prophet**:
-    *Predição de vendas futuras através da biblioteca do facebook em combinação com scikit-learn para avaliação.
+    * Predição de vendas futuras através da biblioteca do facebook em combinação com scikit-learn para avaliação.
