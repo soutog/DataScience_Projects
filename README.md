@@ -18,3 +18,5 @@
     * ImageAI provides 4 different algorithms and model types to perform image prediction, trained on the ImageNet-1000 dataset.          	https://github.com/OlafenwaMoses/ImageAI
 * **Previsão de Vendas usando biblioteca do facebook - Prophet**:
     * Predição de vendas futuras através da biblioteca do facebook em combinação com scikit-learn para avaliação.
+* **Previsão de Valores de Imóveis**:
+    * Análise dos dados e predição valores utilizando os principais algoritmos de machine learning de regressão linear.
